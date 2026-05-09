@@ -1,24 +1,20 @@
 🕘️更新时间,#genre#
-2026-05-09 19:04:08,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-10 06:56:08,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
-CCTV-14,http://101.66.195.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://101.66.198.87:9901/tsfile/live/0014_1.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
-CCTV-15,http://101.66.198.87:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://101.66.195.162:9901/tsfile/live/0015_1.m3u8
+CCTV-15,http://101.66.198.87:9901/tsfile/live/0015_1.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-广东卫视,http://125.42.150.148:9901/tsfile/live/0118_1.m3u8
 广东卫视,http://101.66.195.162:9901/tsfile/live/0125_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
@@ -26,9 +22,8 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 湖北卫视,http://101.66.198.136:9901/tsfile/live/0132_1.m3u8
-湖北卫视,http://101.66.198.11:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://101.66.195.162:9901/tsfile/live/0132_1.m3u8
-安徽卫视,http://125.42.150.148:9901/tsfile/live/0122_1.m3u8
+湖北卫视,http://101.66.198.11:9901/tsfile/live/0132_1.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
