@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-15 20:02:23,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-16 07:03:16,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
@@ -13,26 +13,22 @@ CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=36abc1b7a1c52da710d04974b333874b
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://124.228.160.176:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
-CCTV-14,http://124.228.160.176:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-广东卫视,http://124.228.160.176:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://124.228.160.176:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 安徽卫视,http://124.228.160.176:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://124.228.160.176:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-江西卫视,http://124.228.160.176:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://182.114.50.12:9901/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
-宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
+宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 山东卫视,http://182.114.50.12:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
