@@ -1,40 +1,32 @@
 🕘️更新时间,#genre#
-2026-05-16 19:08:54,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-17 06:55:51,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 
 📺央视频道,#genre#
-CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-2,http://218.29.147.237:9901/tsfile/live/0002_1.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-7,http://218.29.147.237:9901/tsfile/live/0007_1.m3u8
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://125.42.150.192:9901/tsfile/live/1009_1.m3u8
-CCTV-11,http://124.228.160.176:9901/tsfile/live/0011_2.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
-CCTV-15,http://218.29.147.237:9901/tsfile/live/0015_1.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-广东卫视,http://125.42.150.192:9901/tsfile/live/0118_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://59.39.89.130:60901/tsfile/live/0125_2.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=5
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-湖北卫视,http://218.29.147.237:9901/tsfile/live/1007_1.m3u8
-东南卫视,http://124.228.160.176:9901/tsfile/live/0137_1.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-贵州卫视,http://218.29.147.237:9901/tsfile/live/1011_1.m3u8
-河北卫视,http://218.29.147.237:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://218.29.147.237:9901/tsfile/live/0017_1.m3u8
-河南卫视,http://125.42.150.192:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://59.39.89.130:60901/tsfile/live/0125_15.m3u8
+吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8
+辽宁卫视,http://59.39.89.130:60901/tsfile/live/0125_13.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+四川卫视,http://59.39.89.130:60901/tsfile/live/0125_16.m3u8
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-天津卫视,http://218.29.147.237:9901/tsfile/live/1003_1.m3u8
+深圳卫视,http://59.39.89.130:60901/tsfile/live/0125_11.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
-云南卫视,http://218.29.147.237:9901/tsfile/live/1010_1.m3u8
