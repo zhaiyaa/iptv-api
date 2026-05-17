@@ -1,32 +1,41 @@
 🕘️更新时间,#genre#
-2026-05-17 06:55:51,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+2026-05-17 19:17:22,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12e324365e5fe37f99c3757e36709fd0
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-11,http://hao6688.3322.org:30066/stream/channelid/1853027132?ticket=139976274b987e374e5816089cb1ae8aedbacc74&profile=pass
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
+CCTV-13,http://pull-flv-f11.douyinliving.com/media/stream-695829341161128786.flv?expire=1779443980&sign=c106414455c8c02057b64f5998b0be08&neq=1&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695829341161128786_850_flv&t_id=037-20260515175939F18DD3216651B74A5447-FdVP5L
+CCTV-13,http://hao6688.3322.org:30066/stream/channelid/1650386631?ticket=70b8d07bb4001a6358fbfd8600d195082357c3ad&profile=pass
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-15,http://hao6688.3322.org:30066/stream/channelid/253309103?ticket=236e04c48b52ff94c3c6adb7936030a7de1367f7&profile=pass
+CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV-17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
+浙江卫视,http://hao6688.3322.org:30066/stream/channelid/1991276227?ticket=b24331935685500048e648b58e3e4db952ac510d&profile=pass
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://59.39.89.130:60901/tsfile/live/0125_2.m3u8
+湖南卫视,http://hao6688.3322.org:30066/stream/channelid/176332567?ticket=50e1cf79e0493b047799f6715adf3d8dae3d241a&profile=pass
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=5
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+安徽卫视,http://59.39.89.130:60901/tsfile/live/0125_6.m3u8
+甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-贵州卫视,http://59.39.89.130:60901/tsfile/live/0125_15.m3u8
-吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8
-辽宁卫视,http://59.39.89.130:60901/tsfile/live/0125_13.m3u8
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+河南卫视,http://hao6688.3322.org:30066/stream/channelid/471733393?ticket=4609afceb34e27379fd41289a082da54a23ad6f7&profile=pass
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-四川卫视,http://59.39.89.130:60901/tsfile/live/0125_16.m3u8
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-深圳卫视,http://59.39.89.130:60901/tsfile/live/0125_11.m3u8
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
