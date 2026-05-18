@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-18 21:54:14,http://198.204.228.26/live/cctv5p.m3u8
+2026-05-19 07:12:00,http://198.204.228.26/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
@@ -13,7 +13,6 @@ CCTV-13,http://hao6688.3322.org:30066/stream/channelid/1650386631?ticket=70b8d07
 CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV-15,http://hao6688.3322.org:30066/stream/channelid/253309103?ticket=236e04c48b52ff94c3c6adb7936030a7de1367f7&profile=pass
-CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
@@ -22,10 +21,11 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
-湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
+北京卫视,http://59.39.89.130:60901/tsfile/live/0125_7.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
 黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
@@ -41,20 +41,17 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
 河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
 河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
 江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
 江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
-江西卫视,http://59.39.89.130:60901/tsfile/live/0125_10.m3u8
 辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
-宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
 青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
-青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
 山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
 陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
@@ -65,4 +62,3 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
 新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
-云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
