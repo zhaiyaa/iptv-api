@@ -1,43 +1,37 @@
 🕘️更新时间,#genre#
-2026-06-23 20:41:18,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-24 07:14:06,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-4,http://173.208.212.130:8181/720p/cctv4k.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
-CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
+CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8
-CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
-安徽卫视,http://222.90.21.30:9901/hls/25/index.m3u8
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://204.12.221.218:8181/3m1080p/dfws.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
-江苏卫视,http://222.90.21.30:9901/hls/24/index.m3u8
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
-新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
