@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-24 20:24:58,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-25 07:12:55,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -14,13 +14,9 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
-东方卫视,http://222.90.21.30:9901/hls/20/index.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-辽宁卫视,http://222.90.21.30:9901/hls/39/index.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://222.90.21.30:9901/hls/26/index.m3u8
