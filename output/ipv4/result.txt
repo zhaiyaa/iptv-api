@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 22:12:17,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-30 07:04:38,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -11,8 +11,8 @@ CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
-浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -23,4 +23,3 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
-深圳卫视,http://111.8.224.6:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
