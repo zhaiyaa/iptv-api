@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-16 19:47:11,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-17 07:03:51,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
-CCTV-15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
@@ -16,7 +14,6 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
