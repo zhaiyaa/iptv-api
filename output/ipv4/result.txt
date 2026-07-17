@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-17 19:27:22,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-18 06:55:45,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-9,http://182.37.41.46:8154/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
