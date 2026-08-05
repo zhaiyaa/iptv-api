@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-05 07:10:24,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-08-05 20:05:48,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
-CCTV-5,http://101.66.194.210:9901/tsfile/live/0005_1.m3u8
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-7,http://101.66.194.210:9901/tsfile/live/0007_1.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
-CCTV-10,http://101.66.194.210:9901/tsfile/live/0010_1.m3u8
-CCTV-11,http://101.66.194.210:9901/tsfile/live/0011_1.m3u8
-CCTV-15,http://125.42.151.146:9901/tsfile/live/1014_1.m3u8
+CCTV-13,http://111.4.59.41:60901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
@@ -18,23 +15,18 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 重庆卫视,http://101.66.194.210:9901/tsfile/live/0142_1.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
-东南卫视,http://101.66.194.210:9901/tsfile/live/0137_1.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
-贵州卫视,http://101.66.194.210:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河北卫视,http://101.66.194.210:9901/tsfile/live/0117_1.m3u8
-河南卫视,http://101.66.194.210:9901/tsfile/live/0139_1.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
-辽宁卫视,http://101.66.194.210:9901/tsfile/live/0121_1.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
-山东卫视,http://101.66.194.210:9901/tsfile/live/0131_1.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.29:8288
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
