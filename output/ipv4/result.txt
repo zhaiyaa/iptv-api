@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-08 18:41:10,http://123.118.55.165:45237/tsfile/live/0001_1.m3u8
+2026-08-09 06:36:51,http://173.208.212.130:8181/1080p/cctv4.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://123.118.55.165:45237/tsfile/live/0001_1.m3u8
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -16,16 +15,14 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-江苏卫视,http://123.118.55.165:45237/tsfile/live/0127_1.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 青海卫视,http://111.8.224.6:9999/tsfile/live/1030_1.m3u8
-山东卫视,http://123.118.55.165:45237/tsfile/live/0131_1.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
