@@ -1,12 +1,13 @@
 🕘️更新时间,#genre#
-2026-09-02 22:16:14,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
+2026-09-03 08:01:38,http://123.130.84.106:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-14,http://123.130.84.106:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 📡卫视频道,#genre#
@@ -20,6 +21,5 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
