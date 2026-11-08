@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-08 09:14:11,http://45.192.97.170:8880/play/444.m3u8
+2026-11-09 00:35:19,http://45.192.97.170:8880/play/444.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://45.192.97.170:8880/play/444.m3u8
@@ -12,11 +12,12 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
 湖南卫视,http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
+湖南卫视,http://45.192.97.170:8880/play/476.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
-北京卫视,http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 安徽卫视,http://45.192.97.170:8880/play/508.m3u8
 重庆卫视,http://45.192.97.170:8880/play/511.m3u8
@@ -26,6 +27,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 贵州卫视,http://45.192.97.170:8880/play/518.m3u8
 江苏卫视,http://45.192.97.170:8880/play/525.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
+江苏卫视,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 江西卫视,http://bztv.tvbus.cc:8081/cdnlive/jxws.m3u8
 江西卫视,http://45.192.97.170:8880/play/526.m3u8
@@ -35,8 +37,10 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
 陕西卫视,http://45.192.97.170:8880/play/534.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+陕西卫视,http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
+天津卫视,http://45.192.97.170:8880/play/538.m3u8
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
+西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 云南卫视,http://45.192.97.170:8880/play/541.m3u8
