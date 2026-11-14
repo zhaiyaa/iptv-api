@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-14 01:36:40,http://45.192.97.170:8880/play/444.m3u8
+2026-11-14 10:09:56,http://45.192.97.170:8880/play/444.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://45.192.97.170:8880/play/444.m3u8
@@ -21,8 +21,8 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://45.192.97.170:8880/play/508.m3u8
 重庆卫视,http://45.192.97.170:8880/play/511.m3u8
-东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
 东方卫视,http://45.192.97.170:8880/play/513.m3u8
+东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
 贵州卫视,http://45.192.97.170:8880/play/518.m3u8
 江苏卫视,http://45.192.97.170:8880/play/525.m3u8
@@ -34,6 +34,7 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
 陕西卫视,http://45.192.97.170:8880/play/534.m3u8
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://45.192.97.170:8880/play/482.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
