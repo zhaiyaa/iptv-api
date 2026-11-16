@@ -1,19 +1,14 @@
 🕘️更新时间,#genre#
-2026-11-16 00:58:16,http://49.70.189.149:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-11-16 09:45:27,http://45.192.97.170:8880/play/444.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://49.70.189.149:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://45.192.97.170:8880/play/444.m3u8
 CCTV-5,http://45.192.97.170:8880/play/196.m3u8
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
-CCTV-9,http://218.13.139.26:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3c19e649cec922581b8014eeb18e1c1e
 CCTV-11,http://173.208.234.146/live/cctv11.m3u8
-CCTV-13,http://173.208.234.146/live/cctv13.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-16,http://173.208.234.146/live/cctv16.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
-CCTV-17,http://218.13.139.26:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 📡卫视频道,#genre#
@@ -38,8 +33,9 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
 陕西卫视,http://45.192.97.170:8880/play/534.m3u8
-深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://45.192.97.170:8880/play/482.m3u8
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 云南卫视,http://45.192.97.170:8880/play/541.m3u8
